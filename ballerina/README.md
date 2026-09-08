@@ -6,8 +6,8 @@ The module supports SMB dialects `2.0.2` through `3.1.1`, NTLMv2 and Kerberos au
 
 ## Key Features
 
-- `smb:Client` for connecting to a share and reading, writing, moving, copying, and listing files
-- `smb:Listener` for polling a directory and dispatching added or deleted files to a service
+- Connect to a share and reading, writing, moving, copying, and listing files
+- Poll a directory and dispatching added or deleted files to a service
 - Support for SMB dialects `2.0.2`–`3.1.1`, NTLMv2/Kerberos authentication, message signing, and encryption
 
 ## Quickstart
